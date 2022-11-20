@@ -1,0 +1,30 @@
+{
+   "principalId":"apikey4test",
+   "note":"",
+   "appId":"",
+   "ctp":{
+      "authUrl":"https://auth.europe-west1.gcp.commercetools.com",
+      "id":"FGJdhsfjisjfie35dsad",
+      "secret":"hfjsdfhsdjkfhksdfdjsf",
+      "scope":"manage_project:ecp-d1-test"
+   },
+   "permissions":{
+      "allow":[
+         {
+            "httpverbs":[
+               "GET"
+            ],
+            "resource":"/*"
+         },
+         {
+            "httpverbs":[
+               "GET"
+            ],
+            "resource":"ctp/ecp-d1-test/*"
+         }
+      ],
+      "deny":[
+         
+      ]
+   }
+}
