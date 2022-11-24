@@ -1,5 +1,7 @@
 {
    "apiKeysList": [{
+   "name": "API Key 1",
+   "enabled": true,
    "principalId":"apikey4test1",
    "note":"",
    "appId":"1",
@@ -30,6 +32,8 @@
    }
    },
                   {
+                     "name": "API Key 2",
+   "enabled": false,
    "principalId":"apikey4test2",
    "note":"",
    "appId":"2",
@@ -60,6 +64,8 @@
    }
    },
                    {
+                      "name": "API Key 3",
+   "enabled": true,
    "principalId":"apikey4test3",
    "note":"",
    "appId":"3",
