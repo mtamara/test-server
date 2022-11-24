@@ -5,8 +5,8 @@
    "appId":"1",
    "ctp":{
       "authUrl":"https://auth.europe-west1.gcp.commercetools.com",
-      "id":"FGJdhsfjisjfie35dsad1",
-      "secret":"hfjsdfhsdjkfhksdfdjsf1",
+      "id":"FGJdhsfjisjfie35dsadgffgh1",
+      "secret":"hfjsdfhsdjkffghfghgffdjsf1",
       "scope":"manage_project:ecp-d1-test"
    },
    "permissions":{
@@ -35,8 +35,8 @@
    "appId":"2",
    "ctp":{
       "authUrl":"https://auth.europe-west1.gcp.commercetools.com",
-      "id":"FGJdhsfjisjfie35dsad2",
-      "secret":"hfjsdfhsdjkfhksdfdjsf2",
+      "id":"FGJdhsfjisjfidfhgdfhfe35dsad2",
+      "secret":"hfjsdfhsdjfdgdfgfdkfhksdfdjsf2",
       "scope":"manage_project:ecp-d1-test"
    },
    "permissions":{
@@ -65,8 +65,8 @@
    "appId":"3",
    "ctp":{
       "authUrl":"https://auth.europe-west1.gcp.commercetools.com",
-      "id":"FGJdhsfjisjfie35dsad3",
-      "secret":"hfjsdfhsdjkfhksdfdjsf3",
+      "id":"FGJdhsfjisgfdgfdhfghfgjfie35dsad3",
+      "secret":"hfjsdfhsddfgdfgdfjkfhksdfdjsf3",
       "scope":"manage_project:ecp-d1-test"
    },
    "permissions":{
