@@ -1,6 +1,6 @@
 {
    "apiKeysList": [{
-    "account": "TEST",
+   "account": "TEST",
     "region": "eu-west-1",
    "name": "API Key 1",
    "enabled": true,
