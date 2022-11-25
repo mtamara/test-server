@@ -100,6 +100,176 @@
          
       ]
    }
+   },
+                   {
+    "account": "TEST",
+    "region": "eu-west-1",
+   "name": "API Key 1",
+   "enabled": true,
+   "principalId":"apikey4test4",
+   "note":"",
+   "appId":"1",
+   "ctp":{
+      "authUrl":"https://auth.europe-west1.gcp.commercetools.com",
+      "id":"FGJdhsfjisjfie35dsadgffgh1",
+      "secret":"hfjsdfhsdjkffghfghgffdjsf1",
+      "scope":"manage_project:ecp-d1-test"
+   },
+   "permissions":{
+      "allow":[
+         {
+            "httpverbs":[
+               "GET"
+            ],
+            "resource":"/*"
+         },
+         {
+            "httpverbs":[
+               "GET"
+            ],
+            "resource":"ctp/ecp-d1-test/*"
+         }
+      ],
+      "deny":[
+         
+      ]
+   }
+   },
+                   {
+    "account": "TEST",
+    "region": "eu-west-1",
+   "name": "API Key 1",
+   "enabled": true,
+   "principalId":"apikey4test5",
+   "note":"",
+   "appId":"1",
+   "ctp":{
+      "authUrl":"https://auth.europe-west1.gcp.commercetools.com",
+      "id":"FGJdhsfjisjfie35dsadgffgh1",
+      "secret":"hfjsdfhsdjkffghfghgffdjsf1",
+      "scope":"manage_project:ecp-d1-test"
+   },
+   "permissions":{
+      "allow":[
+         {
+            "httpverbs":[
+               "GET"
+            ],
+            "resource":"/*"
+         },
+         {
+            "httpverbs":[
+               "GET"
+            ],
+            "resource":"ctp/ecp-d1-test/*"
+         }
+      ],
+      "deny":[
+         
+      ]
+   }
+   },
+                   {
+    "account": "TEST",
+    "region": "eu-west-1",
+   "name": "API Key 1",
+   "enabled": true,
+   "principalId":"apikey4test6",
+   "note":"",
+   "appId":"1",
+   "ctp":{
+      "authUrl":"https://auth.europe-west1.gcp.commercetools.com",
+      "id":"FGJdhsfjisjfie35dsadgffgh1",
+      "secret":"hfjsdfhsdjkffghfghgffdjsf1",
+      "scope":"manage_project:ecp-d1-test"
+   },
+   "permissions":{
+      "allow":[
+         {
+            "httpverbs":[
+               "GET"
+            ],
+            "resource":"/*"
+         },
+         {
+            "httpverbs":[
+               "GET"
+            ],
+            "resource":"ctp/ecp-d1-test/*"
+         }
+      ],
+      "deny":[
+         
+      ]
+   }
+   },
+                   {
+    "account": "TEST",
+    "region": "eu-west-1",
+   "name": "API Key 1",
+   "enabled": true,
+   "principalId":"apikey4test7",
+   "note":"",
+   "appId":"1",
+   "ctp":{
+      "authUrl":"https://auth.europe-west1.gcp.commercetools.com",
+      "id":"FGJdhsfjisjfie35dsadgffgh1",
+      "secret":"hfjsdfhsdjkffghfghgffdjsf1",
+      "scope":"manage_project:ecp-d1-test"
+   },
+   "permissions":{
+      "allow":[
+         {
+            "httpverbs":[
+               "GET"
+            ],
+            "resource":"/*"
+         },
+         {
+            "httpverbs":[
+               "GET"
+            ],
+            "resource":"ctp/ecp-d1-test/*"
+         }
+      ],
+      "deny":[
+         
+      ]
+   }
+   },
+                   {
+    "account": "TEST",
+    "region": "eu-west-1",
+   "name": "API Key 1",
+   "enabled": true,
+   "principalId":"apikey4test8",
+   "note":"",
+   "appId":"1",
+   "ctp":{
+      "authUrl":"https://auth.europe-west1.gcp.commercetools.com",
+      "id":"FGJdhsfjisjfie35dsadgffgh1",
+      "secret":"hfjsdfhsdjkffghfghgffdjsf1",
+      "scope":"manage_project:ecp-d1-test"
+   },
+   "permissions":{
+      "allow":[
+         {
+            "httpverbs":[
+               "GET"
+            ],
+            "resource":"/*"
+         },
+         {
+            "httpverbs":[
+               "GET"
+            ],
+            "resource":"ctp/ecp-d1-test/*"
+         }
+      ],
+      "deny":[
+         
+      ]
+   }
    }
                   ]
 }
