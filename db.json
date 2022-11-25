@@ -1,7 +1,7 @@
 {
    "apiKeysList": [{
-      "accounts": "TEST",
-      "regions": "eu-west-1",
+      "account": "TEST",
+      "region": "eu-west-1",
    "name": "API Key 1",
    "enabled": true,
    "principalId":"apikey4test1",
@@ -34,8 +34,8 @@
    }
    },
                   {
-                     "accounts": "INT",
-      "regions": "eu-west-1",
+                     "account": "INT",
+      "region": "eu-west-1",
                      "name": "API Key 2",
    "enabled": false,
    "principalId":"apikey4test2",
@@ -68,8 +68,8 @@
    }
    },
                    {
-                      "accounts": "PROD",
-      "regions":"us-east-1",
+                      "account": "PROD",
+      "region":"us-east-1",
                       "name": "API Key 3",
    "enabled": true,
    "principalId":"apikey4test3",
